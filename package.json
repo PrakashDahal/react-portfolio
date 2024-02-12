@@ -1,7 +1,7 @@
 {
-  "name": "my-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://prakashdahal.github.io",
+  "homepage": "https://prakashdahal.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
